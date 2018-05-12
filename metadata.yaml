@@ -1,4 +1,8 @@
 _repo: The-Young-Physician_49331
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49331-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Francis Brett
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31627
     wikipedia: http://en.wikipedia.org/wiki/Francis_Brett_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49331#The-Young-Physician
 gutenberg_issued: '2015-06-29'
 gutenberg_type: Text
 identifiers:
